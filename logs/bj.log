@@ -1,0 +1,88 @@
+12:05:28.266 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:06:09.812 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:18:04.930 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:23:44.613 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:31:14.572 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:31:29.405 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Invoke the Browser and launch the Application URL
+12:31:35.904 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Driver Close
+12:31:43.438 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Invoke the Browser and launch the Application URL
+12:31:43.441 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Start TestCase Execution
+12:31:48.794 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Verify the Alert message
+12:31:48.794 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - End TestCase Execution
+12:31:51.274 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Driver Close
+12:32:31.139 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Invoke the Browser and launch the Application URL
+12:32:35.232 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the contact us page in new window 
+12:32:36.239 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+12:32:41.308 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the singin page in new window 
+12:32:41.314 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+12:32:44.677 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Driver Close
+12:32:52.072 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Invoke the Browser and launch the Application URL
+12:32:55.809 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Driver Close
+12:33:02.506 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Invoke the Browser and launch the Application URL
+12:33:17.966 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Driver Close
+12:33:25.144 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Invoke the Browser and launch the Application URL
+12:33:35.044 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Driver Close
+12:35:02.585 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+12:35:17.532 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Invoke the Browser and launch the Application URL
+12:35:23.578 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Driver Close
+12:35:29.568 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Invoke the Browser and launch the Application URL
+12:35:29.572 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Start TestCase Execution
+12:35:33.145 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Verify the Alert message
+12:35:33.147 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - End TestCase Execution
+12:35:35.541 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Driver Close
+12:36:11.667 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Invoke the Browser and launch the Application URL
+12:36:15.763 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the contact us page in new window 
+12:36:16.783 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+12:36:21.877 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the singin page in new window 
+12:36:21.882 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+12:36:25.207 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Driver Close
+12:36:31.582 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Invoke the Browser and launch the Application URL
+12:36:35.188 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Driver Close
+12:36:47.199 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Invoke the Browser and launch the Application URL
+12:37:02.621 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Driver Close
+12:37:08.537 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Invoke the Browser and launch the Application URL
+12:37:17.854 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Driver Close
+23:38:53.404 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+23:46:31.980 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+14:23:39.366 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Invoke the Browser and launch the Application URL
+14:23:50.326 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Driver Close
+11:13:57.853 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+11:14:20.791 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Invoke the Browser and launch the Application URL
+11:14:29.153 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Driver Close
+11:14:37.319 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Invoke the Browser and launch the Application URL
+11:14:37.467 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Start TestCase Execution
+11:14:39.820 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Verify the Alert message
+11:14:39.821 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - End TestCase Execution
+11:14:44.148 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Driver Close
+11:15:31.068 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Invoke the Browser and launch the Application URL
+11:15:35.171 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the contact us page in new window 
+11:15:36.177 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+11:15:41.241 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the singin page in new window 
+11:15:41.247 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+11:15:46.467 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Driver Close
+11:15:55.562 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Invoke the Browser and launch the Application URL
+11:16:01.154 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Driver Close
+11:16:10.672 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Invoke the Browser and launch the Application URL
+11:16:25.187 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Driver Close
+11:16:36.333 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Invoke the Browser and launch the Application URL
+11:16:46.444 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Driver Close
+13:34:21.988 [main] INFO  com.test.CreatAccount.TC001_CreatAccountTest - Invoke the Browser and launch the Application URL
+13:34:39.397 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Invoke the Browser and launch the Application URL
+13:34:45.167 [main] INFO  com.test.CreatAccount.TC002_VerifytheInvalidpopupTest - Driver Close
+13:34:55.252 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Invoke the Browser and launch the Application URL
+13:34:55.258 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Start TestCase Execution
+13:34:57.108 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Verify the Alert message
+13:34:57.109 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - End TestCase Execution
+13:34:59.586 [main] INFO  com.test.LoginPage.TC001_LoginPageTest - Driver Close
+13:35:41.589 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Invoke the Browser and launch the Application URL
+13:35:45.716 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the contact us page in new window 
+13:35:46.723 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+13:35:51.813 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - open the singin page in new window 
+13:35:51.819 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - chek the title 
+13:35:55.201 [main] INFO  com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest - Driver Close
+13:36:03.706 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Invoke the Browser and launch the Application URL
+13:36:07.391 [main] INFO  com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest - Driver Close
+13:36:15.492 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Invoke the Browser and launch the Application URL
+13:36:30.992 [main] INFO  com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest - Driver Close
+13:36:42.267 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Invoke the Browser and launch the Application URL
+13:36:51.888 [main] INFO  com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest - Driver Close

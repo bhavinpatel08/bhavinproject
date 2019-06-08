@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <parameter name="password" value="123456789"/>
+  <parameter name="Username" value="mail2bhavin88@gmail.com"/>
+  <listeners>
+    <listener class-name="com.test.customListeners.ExtentReporterNG"/>
+    <listener class-name="com.test.customListeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test10(failed)">
+    <classes>
+      <class name="com.test.TshirtPage.TC001_TshirtPageTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="BuyTshirt"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.TshirtPage.TC001_TshirtPageTest -->
+    </classes>
+  </test> <!-- Test10(failed) -->
+</suite> <!-- Failed suite [Suite] -->

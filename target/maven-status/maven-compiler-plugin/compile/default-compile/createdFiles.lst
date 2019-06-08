@@ -1,0 +1,11 @@
+com\test\PageActions\Paymentpage.class
+com\test\PageActions\CreateAccount.class
+com\test\PageActions\ContactusPage.class
+com\test\BaseProperties\BaseClass.class
+com\test\PageActions\LoginPage.class
+com\test\PageActions\ShippingPage.class
+com\test\ExcelReader\ExcelReader.class
+com\test\PageActions\HomePage.class
+com\test\PageActions\TshirtPage.class
+com\test\PageActions\ShopingCartPage.class
+com\test\PageActions\AddressPage.class

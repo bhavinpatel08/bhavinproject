@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\CreatAccountVerification_08_06_2019_01_34_30.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\CreatAccountVerification_08_06_2019_01_34_30.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\Verificationtheinvalidemailpopup_08_06_2019_01_34_44.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\Verificationtheinvalidemailpopup_08_06_2019_01_34_44.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_34_59.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_34_59.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_35_11.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_35_11.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_28.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_28.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_32.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_32.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidatetitleBarlinks_08_06_2019_01_35_53.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidatetitleBarlinks_08_06_2019_01_35_53.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_06.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_06.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_29.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_29.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidateSocialLink_08_06_2019_01_36_50.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidateSocialLink_08_06_2019_01_36_50.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\BuyTshirt_08_06_2019_01_37_35.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\BuyTshirt_08_06_2019_01_37_35.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="209343" started-at="2019-06-08T17:34:07Z" finished-at="2019-06-08T17:37:36Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="23660" started-at="2019-06-08T17:34:07Z" finished-at="2019-06-08T17:34:31Z">
+      <class name="com.test.CreatAccount.TC001_CreatAccountTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.CreatAccount.TC001_CreatAccountTest@79e2c065]" name="BrowserSetUp" is-config="true" duration-ms="14594" started-at="2019-06-08T17:34:07Z" finished-at="2019-06-08T17:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="CreatAccountVerification()[pri:0, instance:com.test.CreatAccount.TC001_CreatAccountTest@79e2c065]" name="CreatAccountVerification" duration-ms="8433" started-at="2019-06-08T17:34:22Z" finished-at="2019-06-08T17:34:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\CreatAccountVerification_08_06_2019_01_34_30.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\CreatAccountVerification_08_06_2019_01_34_30.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreatAccountVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.CreatAccount.TC001_CreatAccountTest@79e2c065]" name="tearDown" is-config="true" duration-ms="54" started-at="2019-06-08T17:34:31Z" finished-at="2019-06-08T17:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.CreatAccount.TC001_CreatAccountTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="13805" started-at="2019-06-08T17:34:31Z" finished-at="2019-06-08T17:34:45Z">
+      <class name="com.test.CreatAccount.TC002_VerifytheInvalidpopupTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.CreatAccount.TC002_VerifytheInvalidpopupTest@35e2d654]" name="BrowserSetUp" is-config="true" duration-ms="8034" started-at="2019-06-08T17:34:31Z" finished-at="2019-06-08T17:34:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="Verificationtheinvalidemailpopup()[pri:0, instance:com.test.CreatAccount.TC002_VerifytheInvalidpopupTest@35e2d654]" name="Verificationtheinvalidemailpopup" duration-ms="5344" started-at="2019-06-08T17:34:39Z" finished-at="2019-06-08T17:34:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\Verificationtheinvalidemailpopup_08_06_2019_01_34_44.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\Verificationtheinvalidemailpopup_08_06_2019_01_34_44.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verificationtheinvalidemailpopup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.CreatAccount.TC002_VerifytheInvalidpopupTest@35e2d654]" name="tearDown" is-config="true" duration-ms="65" started-at="2019-06-08T17:34:45Z" finished-at="2019-06-08T17:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.CreatAccount.TC002_VerifytheInvalidpopupTest -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="14412" started-at="2019-06-08T17:34:45Z" finished-at="2019-06-08T17:34:59Z">
+      <class name="com.test.LoginPage.TC001_LoginPageTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC001_LoginPageTest@293a5bf6]" name="BrowserSetUp" is-config="true" duration-ms="10078" started-at="2019-06-08T17:34:45Z" finished-at="2019-06-08T17:34:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="LoginVerification()[pri:0, instance:com.test.LoginPage.TC001_LoginPageTest@293a5bf6]" name="LoginVerification" duration-ms="3856" started-at="2019-06-08T17:34:55Z" finished-at="2019-06-08T17:34:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_34_59.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_34_59.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC001_LoginPageTest@293a5bf6]" name="tearDown" is-config="true" duration-ms="53" started-at="2019-06-08T17:34:59Z" finished-at="2019-06-08T17:34:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC001_LoginPageTest -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="13151" started-at="2019-06-08T17:34:59Z" finished-at="2019-06-08T17:35:12Z">
+      <class name="com.test.LoginPage.TC002_LoginPageTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC002_LoginPageTest@351d00c0]" name="BrowserSetUp" is-config="true" duration-ms="8174" started-at="2019-06-08T17:34:59Z" finished-at="2019-06-08T17:35:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="LoginVerification(java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginPage.TC002_LoginPageTest@351d00c0]" name="LoginVerification" duration-ms="3851" started-at="2019-06-08T17:35:07Z" finished-at="2019-06-08T17:35:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mail2bhavin88@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_35_11.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\LoginVerification_08_06_2019_01_35_11.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginVerification -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC002_LoginPageTest@351d00c0]" name="tearDown" is-config="true" duration-ms="762" started-at="2019-06-08T17:35:11Z" finished-at="2019-06-08T17:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC002_LoginPageTest -->
+    </test> <!-- Test4 -->
+    <test name="Test5" duration-ms="20565" started-at="2019-06-08T17:35:12Z" finished-at="2019-06-08T17:35:33Z">
+      <class name="com.test.LoginPage.TC003_LoginXLTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC003_LoginXLTest@313ac989]" name="BrowserSetUp" is-config="true" duration-ms="9451" started-at="2019-06-08T17:35:12Z" finished-at="2019-06-08T17:35:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="VerifyLoginTestwithXL(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginPage.TC003_LoginXLTest@313ac989]" name="VerifyLoginTestwithXL" duration-ms="4513" started-at="2019-06-08T17:35:24Z" data-provider="getLoginData" finished-at="2019-06-08T17:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ramesh.korla@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_28.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_28.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTestwithXL -->
+        <test-method status="PASS" signature="VerifyLoginTestwithXL(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginPage.TC003_LoginXLTest@313ac989]" name="VerifyLoginTestwithXL" duration-ms="3868" started-at="2019-06-08T17:35:29Z" data-provider="getLoginData" finished-at="2019-06-08T17:35:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhavinpatel@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_32.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VerifyLoginTestwithXL_08_06_2019_01_35_32.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginTestwithXL -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:com.test.LoginPage.TC003_LoginXLTest@313ac989]" name="EndTest" is-config="true" duration-ms="53" started-at="2019-06-08T17:35:33Z" finished-at="2019-06-08T17:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- com.test.LoginPage.TC003_LoginXLTest -->
+    </test> <!-- Test5 -->
+    <test name="Test6" duration-ms="21774" started-at="2019-06-08T17:35:33Z" finished-at="2019-06-08T17:35:55Z">
+      <class name="com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest@5c6648b0]" name="BrowserSetUp" is-config="true" duration-ms="8162" started-at="2019-06-08T17:35:33Z" finished-at="2019-06-08T17:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="VelidatetitleBarlinks()[pri:0, instance:com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest@5c6648b0]" name="VelidatetitleBarlinks" duration-ms="12232" started-at="2019-06-08T17:35:41Z" finished-at="2019-06-08T17:35:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidatetitleBarlinks_08_06_2019_01_35_53.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidatetitleBarlinks_08_06_2019_01_35_53.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VelidatetitleBarlinks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest@5c6648b0]" name="tearDown" is-config="true" duration-ms="641" started-at="2019-06-08T17:35:54Z" finished-at="2019-06-08T17:35:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest -->
+    </test> <!-- Test6 -->
+    <test name="Test7" duration-ms="12186" started-at="2019-06-08T17:35:55Z" finished-at="2019-06-08T17:36:07Z">
+      <class name="com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest@4c583ecf]" name="BrowserSetUp" is-config="true" duration-ms="8498" started-at="2019-06-08T17:35:55Z" finished-at="2019-06-08T17:36:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="ValidateSerchOption()[pri:0, instance:com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest@4c583ecf]" name="ValidateSerchOption" duration-ms="3238" started-at="2019-06-08T17:36:03Z" finished-at="2019-06-08T17:36:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_06.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_06.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateSerchOption -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest@4c583ecf]" name="tearDown" is-config="true" duration-ms="56" started-at="2019-06-08T17:36:07Z" finished-at="2019-06-08T17:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest -->
+    </test> <!-- Test7 -->
+    <test name="Test8" duration-ms="23590" started-at="2019-06-08T17:36:07Z" finished-at="2019-06-08T17:36:30Z">
+      <class name="com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest@5656be13]" name="BrowserSetUp" is-config="true" duration-ms="8089" started-at="2019-06-08T17:36:07Z" finished-at="2019-06-08T17:36:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="ValidateSerchOption()[pri:0, instance:com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest@5656be13]" name="ValidateSerchOption" duration-ms="14375" started-at="2019-06-08T17:36:15Z" finished-at="2019-06-08T17:36:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_29.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\ValidateSerchOption_08_06_2019_01_36_29.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateSerchOption -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest@5656be13]" name="tearDown" is-config="true" duration-ms="646" started-at="2019-06-08T17:36:30Z" finished-at="2019-06-08T17:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest -->
+    </test> <!-- Test8 -->
+    <test name="Test9" duration-ms="20892" started-at="2019-06-08T17:36:30Z" finished-at="2019-06-08T17:36:51Z">
+      <class name="com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest@4802796d]" name="BrowserSetUp" is-config="true" duration-ms="11270" started-at="2019-06-08T17:36:30Z" finished-at="2019-06-08T17:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="VelidateSocialLink()[pri:0, instance:com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest@4802796d]" name="VelidateSocialLink" duration-ms="8196" started-at="2019-06-08T17:36:42Z" finished-at="2019-06-08T17:36:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidateSocialLink_08_06_2019_01_36_50.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\VelidateSocialLink_08_06_2019_01_36_50.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VelidateSocialLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest@4802796d]" name="tearDown" is-config="true" duration-ms="939" started-at="2019-06-08T17:36:50Z" finished-at="2019-06-08T17:36:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest -->
+    </test> <!-- Test9 -->
+    <test name="Test10" duration-ms="43822" started-at="2019-06-08T17:36:52Z" finished-at="2019-06-08T17:37:36Z">
+      <class name="com.test.TshirtPage.TC001_TshirtPageTest">
+        <test-method status="PASS" signature="BrowserSetUp()[pri:0, instance:com.test.TshirtPage.TC001_TshirtPageTest@3590fc5b]" name="BrowserSetUp" is-config="true" duration-ms="9622" started-at="2019-06-08T17:36:52Z" finished-at="2019-06-08T17:37:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetUp -->
+        <test-method status="PASS" signature="BuyTshirt()[pri:0, instance:com.test.TshirtPage.TC001_TshirtPageTest@3590fc5b]" name="BuyTshirt" duration-ms="33208" started-at="2019-06-08T17:37:02Z" finished-at="2019-06-08T17:37:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a herf='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\BuyTshirt_08_06_2019_01_37_35.png'> <img src ='C:\Users\mail2\eclipse-workspace\AutomationFramework\src\main\java\com\test\ScreenshotSuccess\BuyTshirt_08_06_2019_01_37_35.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BuyTshirt -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.TshirtPage.TC001_TshirtPageTest@3590fc5b]" name="tearDown" is-config="true" duration-ms="629" started-at="2019-06-08T17:37:36Z" finished-at="2019-06-08T17:37:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.TshirtPage.TC001_TshirtPageTest -->
+    </test> <!-- Test10 -->
+  </suite> <!-- Suite -->
+</testng-results>

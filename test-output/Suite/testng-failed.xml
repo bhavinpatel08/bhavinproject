@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="password" value="123456789"/>
+  <parameter name="Username" value="mail2bhavin88@gmail.com"/>
+  <listeners>
+    <listener class-name="com.test.customListeners.ExtentReporterNG"/>
+    <listener class-name="com.test.customListeners.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.test.CreatAccount.TC001_CreatAccountTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="CreatAccountVerification"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.CreatAccount.TC001_CreatAccountTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="com.test.CreatAccount.TC002_VerifytheInvalidpopupTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="Verificationtheinvalidemailpopup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.CreatAccount.TC002_VerifytheInvalidpopupTest -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC001_LoginPageTest">
+        <methods>
+          <include name="LoginVerification"/>
+          <include name="tearDown"/>
+          <include name="BrowserSetUp"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC001_LoginPageTest -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test thread-count="5" name="Test4(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC002_LoginPageTest">
+        <methods>
+          <include name="LoginVerification"/>
+          <include name="tearDown"/>
+          <include name="BrowserSetUp"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC002_LoginPageTest -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test thread-count="5" name="Test5(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC003_LoginXLTest">
+        <methods>
+          <include name="VerifyLoginTestwithXL"/>
+          <include name="EndTest"/>
+          <include name="BrowserSetUp"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC003_LoginXLTest -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+  <test thread-count="5" name="Test6(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="tearDown"/>
+          <include name="VelidatetitleBarlinks"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest -->
+    </classes>
+  </test> <!-- Test6(failed) -->
+  <test thread-count="5" name="Test7(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest">
+        <methods>
+          <include name="ValidateSerchOption"/>
+          <include name="tearDown"/>
+          <include name="BrowserSetUp"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest -->
+    </classes>
+  </test> <!-- Test7(failed) -->
+  <test thread-count="5" name="Test8(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest">
+        <methods>
+          <include name="ValidateSerchOption"/>
+          <include name="tearDown"/>
+          <include name="BrowserSetUp"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest -->
+    </classes>
+  </test> <!-- Test8(failed) -->
+  <test thread-count="5" name="Test9(failed)">
+    <classes>
+      <class name="com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="VelidateSocialLink"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest -->
+    </classes>
+  </test> <!-- Test9(failed) -->
+  <test thread-count="5" name="Test10(failed)">
+    <classes>
+      <class name="com.test.TshirtPage.TC001_TshirtPageTest">
+        <methods>
+          <include name="BrowserSetUp"/>
+          <include name="BuyTshirt"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.test.TshirtPage.TC001_TshirtPageTest -->
+    </classes>
+  </test> <!-- Test10(failed) -->
+</suite> <!-- Failed suite [Suite] -->

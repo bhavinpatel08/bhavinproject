@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="Username" value="mail2bhavin88@gmail.com"/>
+<parameter name="password" value="123456789"/>
+<listeners>
+<listener class-name="com.test.customListeners.ExtentReporterNG"/>
+<listener class-name="com.test.customListeners.Listeners"/>
+</listeners>
+  <test name="Test1">
+    <classes>
+     <class name="com.test.CreatAccount.TC001_CreatAccountTest"/>
+    </classes>
+  </test> 
+  <test name="Test2">
+    <classes>
+     <class name="com.test.CreatAccount.TC002_VerifytheInvalidpopupTest"/>
+    </classes>
+  </test> 
+  <test name="Test3">
+    <classes>
+     <class name="com.test.LoginPage.TC001_LoginPageTest"/>
+    </classes>
+  </test> 
+  <test name="Test4">
+    <classes>
+      <class name="com.test.LoginPage.TC002_LoginPageTest"/>
+    </classes>
+  </test> 
+  <test name="Test5">
+    <classes>
+      <class name="com.test.LoginPage.TC003_LoginXLTest"/>
+    </classes>
+  </test> 
+  <test name="Test6">
+    <classes>
+      <class name="com.test.LoginPage.TC004_LoginPageVerifytitlebarlinksTest"/>
+    </classes>
+  </test> 
+  <test name="Test7">
+    <classes>
+      <class name="com.test.LoginPage.TC005_LoginPageVerifySearchOptionTest"/>
+    </classes>
+  </test> 
+  <test name="Test8">
+    <classes>
+     <class name="com.test.LoginPage.TC006LoginPageVerifyWomen_Dresses_Tshirt_OptionTest"/>
+    </classes>
+  </test> 
+  <test name="Test9">
+    <classes>
+     <class name="com.test.LoginPage.TC007LoginPage_Verify_social_LinkTest"/>
+    </classes>
+  </test> 
+  <test name="Test10">
+    <classes>
+       <class name="com.test.TshirtPage.TC001_TshirtPageTest"/>
+    </classes>
+  </test> 
+</suite> 
+ 
+    
+      
+      
+      
+     
+     
+      
+     
+     
